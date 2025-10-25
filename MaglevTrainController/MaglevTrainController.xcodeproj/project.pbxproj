@@ -24,38 +24,38 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		621A77442D62124500FCDEB9 /* Esp32LedSwitcher.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Esp32LedSwitcher.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		621A77552D62124600FCDEB9 /* Esp32LedSwitcherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Esp32LedSwitcherTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		621A775F2D62124600FCDEB9 /* Esp32LedSwitcherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Esp32LedSwitcherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		621A77442D62124500FCDEB9 /* MaglevTrainController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MaglevTrainController.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		621A77552D62124600FCDEB9 /* MaglevTrainControllerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MaglevTrainControllerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		621A775F2D62124600FCDEB9 /* MaglevTrainControllerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MaglevTrainControllerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		621A77752D62161000FCDEB9 /* Exceptions for "Esp32LedSwitcher" folder in "Esp32LedSwitcher" target */ = {
+		621A77752D62161000FCDEB9 /* Exceptions for "MaglevTrainController" folder in "MaglevTrainController" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 621A77432D62124400FCDEB9 /* Esp32LedSwitcher */;
+			target = 621A77432D62124400FCDEB9 /* MaglevTrainController */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		621A77462D62124500FCDEB9 /* Esp32LedSwitcher */ = {
+		621A77462D62124500FCDEB9 /* MaglevTrainController */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				621A77752D62161000FCDEB9 /* Exceptions for "Esp32LedSwitcher" folder in "Esp32LedSwitcher" target */,
+				621A77752D62161000FCDEB9 /* Exceptions for "MaglevTrainController" folder in "MaglevTrainController" target */,
 			);
-			path = Esp32LedSwitcher;
+			path = MaglevTrainController;
 			sourceTree = "<group>";
 		};
-		621A77582D62124600FCDEB9 /* Esp32LedSwitcherTests */ = {
+		621A77582D62124600FCDEB9 /* MaglevTrainControllerTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Esp32LedSwitcherTests;
+			path = MaglevTrainControllerTests;
 			sourceTree = "<group>";
 		};
-		621A77622D62124600FCDEB9 /* Esp32LedSwitcherUITests */ = {
+		621A77622D62124600FCDEB9 /* MaglevTrainControllerUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Esp32LedSwitcherUITests;
+			path = MaglevTrainControllerUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -88,9 +88,9 @@
 		621A773B2D62124400FCDEB9 = {
 			isa = PBXGroup;
 			children = (
-				621A77462D62124500FCDEB9 /* Esp32LedSwitcher */,
-				621A77582D62124600FCDEB9 /* Esp32LedSwitcherTests */,
-				621A77622D62124600FCDEB9 /* Esp32LedSwitcherUITests */,
+				621A77462D62124500FCDEB9 /* MaglevTrainController */,
+				621A77582D62124600FCDEB9 /* MaglevTrainControllerTests */,
+				621A77622D62124600FCDEB9 /* MaglevTrainControllerUITests */,
 				621A77452D62124500FCDEB9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -98,9 +98,9 @@
 		621A77452D62124500FCDEB9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				621A77442D62124500FCDEB9 /* Esp32LedSwitcher.app */,
-				621A77552D62124600FCDEB9 /* Esp32LedSwitcherTests.xctest */,
-				621A775F2D62124600FCDEB9 /* Esp32LedSwitcherUITests.xctest */,
+				621A77442D62124500FCDEB9 /* MaglevTrainController.app */,
+				621A77552D62124600FCDEB9 /* MaglevTrainControllerTests.xctest */,
+				621A775F2D62124600FCDEB9 /* MaglevTrainControllerUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,9 +108,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		621A77432D62124400FCDEB9 /* Esp32LedSwitcher */ = {
+		621A77432D62124400FCDEB9 /* MaglevTrainController */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 621A77692D62124600FCDEB9 /* Build configuration list for PBXNativeTarget "Esp32LedSwitcher" */;
+			buildConfigurationList = 621A77692D62124600FCDEB9 /* Build configuration list for PBXNativeTarget "MaglevTrainController" */;
 			buildPhases = (
 				621A77402D62124400FCDEB9 /* Sources */,
 				621A77412D62124400FCDEB9 /* Frameworks */,
@@ -121,18 +121,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				621A77462D62124500FCDEB9 /* Esp32LedSwitcher */,
+				621A77462D62124500FCDEB9 /* MaglevTrainController */,
 			);
-			name = Esp32LedSwitcher;
+			name = MaglevTrainController;
 			packageProductDependencies = (
 			);
 			productName = Esp32LedSwitcher;
-			productReference = 621A77442D62124500FCDEB9 /* Esp32LedSwitcher.app */;
+			productReference = 621A77442D62124500FCDEB9 /* MaglevTrainController.app */;
 			productType = "com.apple.product-type.application";
 		};
-		621A77542D62124600FCDEB9 /* Esp32LedSwitcherTests */ = {
+		621A77542D62124600FCDEB9 /* MaglevTrainControllerTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 621A776C2D62124600FCDEB9 /* Build configuration list for PBXNativeTarget "Esp32LedSwitcherTests" */;
+			buildConfigurationList = 621A776C2D62124600FCDEB9 /* Build configuration list for PBXNativeTarget "MaglevTrainControllerTests" */;
 			buildPhases = (
 				621A77512D62124600FCDEB9 /* Sources */,
 				621A77522D62124600FCDEB9 /* Frameworks */,
@@ -144,18 +144,18 @@
 				621A77572D62124600FCDEB9 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				621A77582D62124600FCDEB9 /* Esp32LedSwitcherTests */,
+				621A77582D62124600FCDEB9 /* MaglevTrainControllerTests */,
 			);
-			name = Esp32LedSwitcherTests;
+			name = MaglevTrainControllerTests;
 			packageProductDependencies = (
 			);
 			productName = Esp32LedSwitcherTests;
-			productReference = 621A77552D62124600FCDEB9 /* Esp32LedSwitcherTests.xctest */;
+			productReference = 621A77552D62124600FCDEB9 /* MaglevTrainControllerTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		621A775E2D62124600FCDEB9 /* Esp32LedSwitcherUITests */ = {
+		621A775E2D62124600FCDEB9 /* MaglevTrainControllerUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 621A776F2D62124600FCDEB9 /* Build configuration list for PBXNativeTarget "Esp32LedSwitcherUITests" */;
+			buildConfigurationList = 621A776F2D62124600FCDEB9 /* Build configuration list for PBXNativeTarget "MaglevTrainControllerUITests" */;
 			buildPhases = (
 				621A775B2D62124600FCDEB9 /* Sources */,
 				621A775C2D62124600FCDEB9 /* Frameworks */,
@@ -167,13 +167,13 @@
 				621A77612D62124600FCDEB9 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				621A77622D62124600FCDEB9 /* Esp32LedSwitcherUITests */,
+				621A77622D62124600FCDEB9 /* MaglevTrainControllerUITests */,
 			);
-			name = Esp32LedSwitcherUITests;
+			name = MaglevTrainControllerUITests;
 			packageProductDependencies = (
 			);
 			productName = Esp32LedSwitcherUITests;
-			productReference = 621A775F2D62124600FCDEB9 /* Esp32LedSwitcherUITests.xctest */;
+			productReference = 621A775F2D62124600FCDEB9 /* MaglevTrainControllerUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -199,7 +199,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 621A773F2D62124400FCDEB9 /* Build configuration list for PBXProject "Esp32LedSwitcher" */;
+			buildConfigurationList = 621A773F2D62124400FCDEB9 /* Build configuration list for PBXProject "MaglevTrainController" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -213,9 +213,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				621A77432D62124400FCDEB9 /* Esp32LedSwitcher */,
-				621A77542D62124600FCDEB9 /* Esp32LedSwitcherTests */,
-				621A775E2D62124600FCDEB9 /* Esp32LedSwitcherUITests */,
+				621A77432D62124400FCDEB9 /* MaglevTrainController */,
+				621A77542D62124600FCDEB9 /* MaglevTrainControllerTests */,
+				621A775E2D62124600FCDEB9 /* MaglevTrainControllerUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -271,12 +271,12 @@
 /* Begin PBXTargetDependency section */
 		621A77572D62124600FCDEB9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 621A77432D62124400FCDEB9 /* Esp32LedSwitcher */;
+			target = 621A77432D62124400FCDEB9 /* MaglevTrainController */;
 			targetProxy = 621A77562D62124600FCDEB9 /* PBXContainerItemProxy */;
 		};
 		621A77612D62124600FCDEB9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 621A77432D62124400FCDEB9 /* Esp32LedSwitcher */;
+			target = 621A77432D62124400FCDEB9 /* MaglevTrainController */;
 			targetProxy = 621A77602D62124600FCDEB9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -498,7 +498,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Esp32LedSwitcher.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Esp32LedSwitcher";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MaglevTrainController.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MaglevTrainController";
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Debug;
@@ -521,7 +521,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Esp32LedSwitcher.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Esp32LedSwitcher";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MaglevTrainController.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MaglevTrainController";
 				XROS_DEPLOYMENT_TARGET = 2.2;
 			};
 			name = Release;
@@ -573,7 +573,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		621A773F2D62124400FCDEB9 /* Build configuration list for PBXProject "Esp32LedSwitcher" */ = {
+		621A773F2D62124400FCDEB9 /* Build configuration list for PBXProject "MaglevTrainController" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				621A77672D62124600FCDEB9 /* Debug */,
@@ -582,7 +582,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		621A77692D62124600FCDEB9 /* Build configuration list for PBXNativeTarget "Esp32LedSwitcher" */ = {
+		621A77692D62124600FCDEB9 /* Build configuration list for PBXNativeTarget "MaglevTrainController" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				621A776A2D62124600FCDEB9 /* Debug */,
@@ -591,7 +591,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		621A776C2D62124600FCDEB9 /* Build configuration list for PBXNativeTarget "Esp32LedSwitcherTests" */ = {
+		621A776C2D62124600FCDEB9 /* Build configuration list for PBXNativeTarget "MaglevTrainControllerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				621A776D2D62124600FCDEB9 /* Debug */,
@@ -600,7 +600,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		621A776F2D62124600FCDEB9 /* Build configuration list for PBXNativeTarget "Esp32LedSwitcherUITests" */ = {
+		621A776F2D62124600FCDEB9 /* Build configuration list for PBXNativeTarget "MaglevTrainControllerUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				621A77702D62124600FCDEB9 /* Debug */,

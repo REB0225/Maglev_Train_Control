@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "621A77432D62124400FCDEB9"
-               BuildableName = "Esp32LedSwitcher.app"
-               BlueprintName = "Esp32LedSwitcher"
-               ReferencedContainer = "container:Esp32LedSwitcher.xcodeproj">
+               BuildableName = "MaglevTrainController.app"
+               BlueprintName = "MaglevTrainController"
+               ReferencedContainer = "container:MaglevTrainController.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -36,9 +36,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "621A77542D62124600FCDEB9"
-               BuildableName = "Esp32LedSwitcherTests.xctest"
-               BlueprintName = "Esp32LedSwitcherTests"
-               ReferencedContainer = "container:Esp32LedSwitcher.xcodeproj">
+               BuildableName = "MaglevTrainControllerTests.xctest"
+               BlueprintName = "MaglevTrainControllerTests"
+               ReferencedContainer = "container:MaglevTrainController.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "621A775E2D62124600FCDEB9"
-               BuildableName = "Esp32LedSwitcherUITests.xctest"
-               BlueprintName = "Esp32LedSwitcherUITests"
-               ReferencedContainer = "container:Esp32LedSwitcher.xcodeproj">
+               BuildableName = "MaglevTrainControllerUITests.xctest"
+               BlueprintName = "MaglevTrainControllerUITests"
+               ReferencedContainer = "container:MaglevTrainController.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -69,9 +69,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "621A77432D62124400FCDEB9"
-            BuildableName = "Esp32LedSwitcher.app"
-            BlueprintName = "Esp32LedSwitcher"
-            ReferencedContainer = "container:Esp32LedSwitcher.xcodeproj">
+            BuildableName = "MaglevTrainController.app"
+            BlueprintName = "MaglevTrainController"
+            ReferencedContainer = "container:MaglevTrainController.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -86,9 +86,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "621A77432D62124400FCDEB9"
-            BuildableName = "Esp32LedSwitcher.app"
-            BlueprintName = "Esp32LedSwitcher"
-            ReferencedContainer = "container:Esp32LedSwitcher.xcodeproj">
+            BuildableName = "MaglevTrainController.app"
+            BlueprintName = "MaglevTrainController"
+            ReferencedContainer = "container:MaglevTrainController.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
